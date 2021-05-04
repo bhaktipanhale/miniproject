@@ -48,6 +48,7 @@
       <a class="dropdown-item" href="footwear.php">Footwear</a>
       <a class="dropdown-item" href="jeans.php">Jeans</a>
       <a class="dropdown-item" href="tandt.php">Tops & Tees</a>
+      <a class="dropdown-item" href="kids.php">Kids</a>
     </div>
   </div>
 </div>
